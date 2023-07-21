@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-# instalcion de dependencias nesesaria para la ejecucion del proyecto
+# instalacion de dependencias nesesaria para la ejecucion del proyecto
 
 $ pnpm i
 ```
